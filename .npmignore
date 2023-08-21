@@ -1,0 +1,5 @@
+node_modules
+.npmignore
+tsconfig.json
+.idea
+.DS_STORE
